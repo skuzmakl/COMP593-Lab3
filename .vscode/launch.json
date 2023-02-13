@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "COMP593 A3E1",
+            "type": "python",
+            "request": "launch",
+            "program": "COMP593_A3E1.py",
+            "console": "externalTerminal",
+            "justMyCode": true,
+            "args": ["C:\\git-repo\\COMP593-Lab3\\sales_data.csv"]
+        }
+    ]
+}
